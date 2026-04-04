@@ -1,0 +1,58 @@
+[
+    {
+        "id": "blog-001",
+        "title": "Complete Guide to Canada Study Visa 2024",
+        "slug": "complete-guide-canada-study-visa-2024",
+        "category": "visa",
+        "tags": "canada, study visa, immigration",
+        "content": "Full blog content here...",
+        "featured_image": "uploads\/blog\/canada-visa.jpg",
+        "meta_title": "Canada Study Visa Guide 2024 | PDR Abroad",
+        "meta_description": "Complete guide to applying for Canada study visa in 2024.",
+        "status": "published",
+        "date": "2024-12-15 10:00:00",
+        "author": "Admin"
+    },
+    {
+        "id": "blog-002",
+        "title": "Why Georgia is Top Choice for MBBS in 2024",
+        "slug": "why-georgia-top-choice-mbbs-2024",
+        "category": "mbbs",
+        "tags": "mbbs, georgia, medical education",
+        "content": "Full blog content here...",
+        "featured_image": "uploads\/blog\/georgia-mbbs.jpg",
+        "meta_title": "MBBS in Georgia 2024 | PDR Abroad",
+        "meta_description": "Discover why Georgia is a top destination for MBBS.",
+        "status": "published",
+        "date": "2024-12-12 10:00:00",
+        "author": "Admin"
+    },
+    {
+        "id": "blog-003",
+        "title": "10 Proven Tips to Score 8+ in IELTS",
+        "slug": "10-tips-score-8-ielts",
+        "category": "exams",
+        "tags": "ielts, tips, english",
+        "content": "Full blog content here...",
+        "featured_image": "uploads\/blog\/ielts-tips.jpg",
+        "meta_title": "IELTS Score 8+ Tips | PDR Abroad",
+        "meta_description": "Expert tips to achieve 8+ bands in IELTS.",
+        "status": "published",
+        "date": "2024-12-10 10:00:00",
+        "author": "Admin"
+    },
+    {
+        "id": "69c3b328ac99a-1774433064",
+        "title": "Test Blog Post",
+        "slug": "test-blog-post",
+        "category": "visa",
+        "tags": "",
+        "content": "This is a test blog post.",
+        "featured_image": "",
+        "meta_title": "Test Blog Post",
+        "meta_description": "",
+        "status": "published",
+        "date": "2026-03-25 15:34:24",
+        "author": "admin"
+    }
+]

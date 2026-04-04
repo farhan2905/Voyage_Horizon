@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Test User",
+        "email": "test@example.com",
+        "phone": "9876543210",
+        "service": "study-visa",
+        "country": "usa",
+        "message": "Testing form submission",
+        "date": "2026-03-25 11:05:04",
+        "ip_address": "::1"
+    },
+    {
+        "name": "farha siddiqui",
+        "email": "farhan@gmail.com",
+        "phone": "8000040485",
+        "service": "mbbs-abroad",
+        "country": "canada",
+        "message": "h hahfhhfb",
+        "date": "2026-03-25 15:50:43",
+        "ip_address": "::1"
+    }
+]

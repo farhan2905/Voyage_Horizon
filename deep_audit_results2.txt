@@ -1,0 +1,90 @@
+=== DEEP QUALITY AUDIT ===
+
+--- STUDY VISA ---
+
+[Australia] (australia.html)
+  Universities found: ['University of Melbourne', 'Australian National University', 'University of Sydney']
+  OK - All checks passed
+
+[Canada] (canada.html)
+  Universities found: ['University of Toronto', 'University of British Columbia', 'McGill University']
+  OK - All checks passed
+
+[France] (france.html)
+  Universities found: ['Sorbonne University']
+  !! MISSING: Only 1 specific university names found
+  !! MISSING: No currency values found in fee table
+
+[Germany] (germany.html)
+  Universities found: ['Technical University of Munich (TUM)', 'Heidelberg University', 'RWTH Aachen University']
+  OK - All checks passed
+
+[Ireland] (ireland.html)
+  Universities found: ['Trinity College Dublin', 'University College Dublin', 'University College Cork']
+  OK - All checks passed
+
+[Netherlands] (netherlands.html)
+  Universities found: ['Delft University of Technology', 'University of Amsterdam', 'Erasmus University Rotterdam']
+  OK - All checks passed
+
+[New Zealand] (new-zealand.html)
+  Universities found: ['University of Auckland', 'University of Otago', 'Victoria University of Wellington']
+  OK - All checks passed
+
+[Spain] (spain.html)
+  Universities found: ['IE University', 'University of Barcelona', 'Autonomous University of Madrid']
+  !! MISSING: No currency values found in fee table
+
+[Switzerland] (switzerland.html)
+  Universities found: ['University of Zurich', 'University of Bern']
+  OK - All checks passed
+
+[UK] (uk.html)
+  Universities found: ['University of Oxford', 'University of Cambridge', 'Imperial College London']
+  OK - All checks passed
+
+[USA] (usa.html)
+  Universities found: ['Harvard University', 'Stanford University', 'University of Michigan']
+  OK - All checks passed
+
+--- MBBS ABROAD ---
+
+[Egypt] (egypt.html)
+  Universities found: ['Cairo University Faculty of Medicine', 'Alexandria University', 'Ain Shams University']
+  OK - All checks passed
+
+[Georgia] (georgia.html)
+  Universities found: ['Tbilisi State Medical University', 'David Tvildiani Medical University', 'European University']
+  OK - All checks passed
+
+[Iraq] (iraq.html)
+  Universities found: ['University of Baghdad', 'University of Basrah', 'University of Mosul']
+  OK - All checks passed
+
+[Italy] (italy.html)
+  Universities found: ['University of Milan', 'University of Bologna', 'Sapienza University of Rome']
+  OK - All checks passed
+
+[Kazakhstan] (kazakhstan.html)
+  Universities found: ['Astana Medical University', 'Al-Farabi Kazakh National University', 'Karaganda Medical University']
+  OK - All checks passed
+
+[Kyrgyzstan] (kyrgyzstan.html)
+  Universities found: ['Osh State University', 'Jalal-Abad State University', 'International School of Medicine']
+  OK - All checks passed
+
+[Nepal] (nepal.html)
+  Universities found: ['Kathmandu Medical College', 'B.P. Koirala Institute of Health Sciences', 'Manipal College of Medical Sciences']
+  OK - All checks passed
+
+[Russia] (russia.html)
+  Universities found: ['Kazan State Medical University', 'St. Petersburg State Medical University', 'Sechenov University Moscow']
+  OK - All checks passed
+
+[Uzbekistan] (uzbekistan.html)
+  Universities found: ['Andijan State Medical Institute', 'Bukhara State Medical Institute', 'Samarkand State Medical University']
+  OK - All checks passed
+
+[Vietnam] (vietnam.html)
+  Universities found: ['Hanoi Medical University', 'University of Medicine and Pharmacy, HCMC', 'Pham Ngoc Thach University']
+  OK - All checks passed

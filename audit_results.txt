@@ -1,0 +1,28 @@
+--- STUDY VISA AUDIT ---
+File                      | Uni | Fee | PSW | Proc | Why | Form | Table
+----------------------------------------------------------------------
+australia.html            |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+canada.html               |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+france.html               |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+germany.html              |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+ireland.html              |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+netherlands.html          |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+new-zealand.html          |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+spain.html                |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+switzerland.html          |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+uk.html                   |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+usa.html                  |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+
+--- MBBS ABROAD AUDIT ---
+File                      | Uni | Fee | PSW | Proc | Why | Form | Table
+----------------------------------------------------------------------
+egypt.html                |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+georgia.html              |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+iraq.html                 |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+italy.html                |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+kazakhstan.html           |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+kyrgyzstan.html           |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+nepal.html                |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+russia.html               |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+uzbekistan.html           |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   
+vietnam.html              |   Y  |  Y  |  Y  |  Y   |  Y  |  Y   |  Y   

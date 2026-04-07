@@ -1,6 +1,6 @@
 <?php
 /**
- * PDR Abroad Consultancy - Contact Form Handler
+ * Voyage Horizon - Contact Form Handler
  * Handles form submissions and sends emails
  */
 
@@ -12,9 +12,9 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 
 // Configuration
 $config = [
-    'admin_email' => 'info@pdrabroad.com',
-    'from_email' => 'noreply@pdrabroad.com',
-    'from_name' => 'PDR Abroad Consultancy',
+    'admin_email' => 'info@voyagehorizon.com',
+    'from_email' => 'noreply@voyagehorizon.com',
+    'from_name' => 'Voyage Horizon',
     'success_redirect' => '../thank-you.html',
     'error_redirect' => '../contact.html?error=1'
 ];
@@ -32,6 +32,14 @@ function isValidEmail($email) {
 // Get and validate form data
 $errors = [];
 $data = [];
+
+// Normalize unified 'name' field if present
+if (!empty($_POST['name'])) {
+    $fullName = trim($_POST['name']);
+    $parts = explode(' ', $fullName, 2);
+    $_POST['firstName'] = $parts[0];
+    $_POST['lastName'] = isset($parts[1]) ? $parts[1] : '-';
+}
 
 // Required fields
 $required_fields = ['firstName', 'lastName', 'email', 'phone'];
@@ -165,7 +173,7 @@ file_put_contents($enquiries_file, json_encode($enquiries, JSON_PRETTY_PRINT));
 $mail_sent = mail($config['admin_email'], $subject, $email_body, implode("\r\n", $headers));
 
 // Send auto-reply to user
-$auto_reply_subject = 'Thank you for contacting PDR Abroad Consultancy';
+$auto_reply_subject = 'Thank you for contacting Voyage Horizon';
 $auto_reply_body = "
 <html>
 <head>
@@ -180,7 +188,7 @@ $auto_reply_body = "
     <div class='container'>
         <h2>Thank You for Contacting Us!</h2>
         <p>Dear {$data['firstName']},</p>
-        <p>Thank you for reaching out to PDR Abroad Consultancy. We have received your enquiry and our team will get back to you within 24 hours.</p>
+        <p>Thank you for reaching out to Voyage Horizon. We have received your enquiry and our team will get back to you within 24 hours.</p>
         <p>In the meantime, feel free to explore our services:</p>
         <ul>
             <li>Study Visa Services</li>
@@ -191,10 +199,10 @@ $auto_reply_body = "
         <ul>
             <li>Phone: +91 98765 43210</li>
             <li>WhatsApp: +91 98765 43210</li>
-            <li>Email: info@pdrabroad.com</li>
+            <li>Email: info@voyagehorizon.com</li>
         </ul>
         <div class='footer'>
-            <p>Best regards,<br>PDR Abroad Consultancy Team</p>
+            <p>Best regards,<br>Voyage Horizon Team</p>
         </div>
     </div>
 </body>

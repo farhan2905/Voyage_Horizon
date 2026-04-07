@@ -1,6 +1,6 @@
 <?php
 /**
- * PDR Abroad Consultancy - Admin Logout
+ * Voyage Horizon - Admin Logout
  */
 session_start();
 session_destroy();

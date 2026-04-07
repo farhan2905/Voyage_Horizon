@@ -1,6 +1,6 @@
 <?php
 /**
- * PDR Abroad Consultancy - Create Blog Post
+ * Voyage Horizon - Create Blog Post
  */
 require_once '../php/config.php';
 requireLogin();
@@ -137,7 +137,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         
                         <div class="form-group">
                             <label class="form-label" for="tags">Tags (comma separated)</label>
-                            <input type="text" id="tags" name="tags" class="form-input" placeholder="study abroad, visa, tips">
+                            <input type="text" id="tags" name="tags" class="form-input" placeholder="study visa, visa, tips">
                         </div>
                         
                         <div class="form-group">

@@ -1,5 +1,5 @@
 /**
- * PDR Abroad Consultancy - Main JavaScript
+ * Voyage Horizon - Main JavaScript
  * Handles all dynamic behaviors and interactions
  */
 

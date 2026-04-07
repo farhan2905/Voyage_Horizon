@@ -1,6 +1,6 @@
 <?php
 /**
- * PDR Abroad Consultancy - Enquiries Management
+ * Voyage Horizon - Enquiries Management
  */
 require_once '../php/config.php';
 requireLogin();

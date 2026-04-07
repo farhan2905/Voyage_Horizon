@@ -1,6 +1,6 @@
 <?php
 /**
- * PDR Abroad Consultancy - Configuration File
+ * Voyage Horizon - Configuration File
  * Database and site configuration settings
  */
 
@@ -10,19 +10,19 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 // Site Configuration
-define('SITE_NAME', 'PDR Abroad Consultancy');
-define('SITE_URL', 'https://www.pdrabroad.com');
-define('ADMIN_EMAIL', 'info@pdrabroad.com');
+define('SITE_NAME', 'Voyage Horizon');
+define('SITE_URL', 'https://www.voyagehorizon.com');
+define('ADMIN_EMAIL', 'info@voyagehorizon.com');
 define('CONTACT_PHONE', '+91 98765 43210');
 
 // Database Configuration (for MySQL - optional)
 // Uncomment and configure if using MySQL database
 /*
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'pdrabroad_db');
+define('DB_NAME', 'voyagehorizon_db');
 define('DB_USER', 'your_username');
 define('DB_PASS', 'your_password');
-define('DB_PREFIX', 'pdr_');
+define('DB_PREFIX', 'vh_');
 */
 
 // Admin Credentials (for simple file-based auth)

@@ -1,6 +1,6 @@
 <?php
 /**
- * PDR Abroad Consultancy - Blog Management
+ * Voyage Horizon - Blog Management
  */
 require_once '../php/config.php';
 requireLogin();

@@ -1,0 +1,24 @@
+  australia.html: Removed 1 duplicate uni sections
+  OK: australia.html (fixed)
+  canada.html: Removed 1 duplicate uni sections
+  OK: canada.html (fixed)
+  france.html: Removed 1 duplicate uni sections
+  OK: france.html (fixed)
+  germany.html: Removed 1 duplicate uni sections
+  OK: germany.html (fixed)
+  ireland.html: Removed 1 duplicate uni sections
+  OK: ireland.html (fixed)
+  netherlands.html: Removed 1 duplicate uni sections
+  OK: netherlands.html (fixed)
+  new-zealand.html: Removed 1 duplicate uni sections
+  OK: new-zealand.html (fixed)
+  spain.html: Removed 1 duplicate uni sections
+  OK: spain.html (fixed)
+  switzerland.html: Removed 1 duplicate uni sections
+  OK: switzerland.html (fixed)
+  uk.html: Removed 1 duplicate uni sections
+  OK: uk.html (fixed)
+  usa.html: Removed 1 duplicate uni sections
+  OK: usa.html (fixed)
+
+All study_visa pages fully standardized.

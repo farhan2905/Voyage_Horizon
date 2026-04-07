@@ -1,0 +1,137 @@
+australia.html            F:True W:True T:2 Form:True  Sections:11
+  1. HERO
+  2. Why Study in Australia?
+  3. Top Australian Universities
+  4. Post-Study Work & Career Opportunities
+  5. Detailed Financial Breakdown
+  6. Australia Study Plan
+  7. Plan Your Study in Australia
+  8. Reach Out to Australian Study Experts
+  9. Contact Our Australia Study Advisors
+  10. Contact Our Australia Study Advisors
+  11. University Comparison Table ù Australia
+
+canada.html               F:True W:True T:2 Form:True  Sections:11
+  1. HERO
+  2. Why Study in Canada?
+  3. Top Universities in Canada
+  4. University Comparison Table ù Canada
+  5. Post-Study Work & Career Opportunities
+  6. Detailed Financial Breakdown
+  7. Canada Admission Roadmap
+  8. Begin Your Canadian Education Journey
+  9. Contact Our Canada Study Advisors
+  10. Contact Our Canada Study Advisors
+  11. Contact Our Canada Study Advisors
+
+france.html               F:True W:True T:2 Form:True  Sections:10
+  1. HERO
+  2. Why Study in France?
+  3. Top Universities in France
+  4. University Comparison Table ù France
+  5. Detailed Financial Breakdown
+  6. Post-Study Work and Career Opportunities
+  7. France Study Pathway
+  8. Start Your France Education Journey
+  9. Contact Our France Study Advisors
+  10. Contact Our France Study Advisors
+
+germany.html              F:True W:True T:2 Form:True  Sections:11
+  1. HERO
+  2. Why Study in Germany?
+  3. Top Universities in Germany
+  4. University Comparison Table ù Germany
+  5. German Admission Process
+  6. Post-Study Work & Career Opportunities
+  7. Detailed Financial Breakdown
+  8. Start Your Germany Education Plan
+  9. Contact Our Germany Study Experts
+  10. Contact Our Germany Study Advisors
+  11. Contact Our Germany Study Advisors
+
+ireland.html              F:True W:True T:2 Form:True  Sections:11
+  1. HERO
+  2. Why Study in Ireland?
+  3. Leading Irish Universities
+  4. Post-Study Work & Career Opportunities
+  5. Detailed Financial Breakdown
+  6. Ireland Study Roadmap
+  7. Start Your Ireland Study Plan
+  8. Contact Our Ireland Study Advisors
+  9. Contact Our Ireland Study Advisors
+  10. Contact Our Ireland Study Advisors
+  11. University Comparison Table ù Ireland
+
+netherlands.html          F:True W:True T:2 Form:True  Sections:11
+  1. HERO
+  2. Why Study in Netherlands?
+  3. Top Dutch Universities
+  4. Post-Study Work & Career Opportunities
+  5. Detailed Financial Breakdown
+  6. Netherlands Study Roadmap
+  7. Secure Your Netherlands Study Plan
+  8. Contact Our Netherlands Study Advisors
+  9. Contact Our Netherlands Study Advisors
+  10. Contact Our Netherlands Study Advisors
+  11. University Comparison Table ù Netherlands
+
+new-zealand.html          F:True W:True T:2 Form:True  Sections:11
+  1. HERO
+  2. Why Study in New Zealand?
+  3. Top Kiwi Universities
+  4. Post-Study Work & Career Opportunities
+  5. Detailed Financial Breakdown
+  6. NZ Admission Journey
+  7. Plan Your New Zealand Study Visa Goal
+  8. Contact Our NZ Study Advisors
+  9. Contact Our New Zealand Study Advisors
+  10. Contact Our New Zealand Study Advisors
+  11. University Comparison Table ù New Zealand
+
+spain.html                F:True W:True T:1 Form:True  Sections:8
+  1. HERO
+  2. Why Study in Spain?
+  3. Top Universities in Spain
+  4. University Comparison Table ù Spain
+  5. Spain Study Pathway
+  6. Start Your Spain Education Journey
+  7. Contact Our Spain Study Advisors
+  8. Contact Our Spain Study Advisors
+
+switzerland.html          F:True W:True T:2 Form:True  Sections:12
+  1. HERO
+  2. Why Study in Switzerland?
+  3. Top Universities in Switzerland
+  4. University Comparison Table ù Switzerland
+  5. Study Visa Process in Switzerland
+  6. Student Visa & Living Information
+  7. Post-Study Work & Career Opportunities
+  8. Detailed Financial Breakdown
+  9. Start Your Swiss Education Journey
+  10. Interested in Studying in Switzerland?
+  11. Contact Our Switzerland Study Advisors
+  12. Contact Our Switzerland Study Advisors
+
+uk.html                   F:True W:True T:1 Form:True  Sections:8
+  1. HERO
+  2. Why Study in the UK?
+  3. Top Universities in UK
+  4. University Comparison Table ù UK
+  5. UK Study Pathway
+  6. Start Your UK Education Journey
+  7. Contact Our UK Study Advisors
+  8. Contact Our UK Study Advisors
+
+usa.html                  F:True W:True T:2 Form:True  Sections:11
+  1. HERO
+  2. Why Study in USA?
+  3. Top Universities in USA
+  4. University Comparison Table ù USA
+  5. Post-Study Work & Career Opportunities
+  6. Detailed Financial Breakdown
+  7. USA Study Pathway
+  8. Launch Your US Education Journey
+  9. Contact Our USA Study Advisors
+  10. Contact Our USA Study Advisors
+  11. Contact Our USA Study Advisors
+
